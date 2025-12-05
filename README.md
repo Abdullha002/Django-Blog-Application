@@ -149,9 +149,18 @@ python manage.py runserver
 *Add screenshots of your application here, for example:*
 
 - Home Page
+![alt text](Home_page.PNG)
 - Dashboard
+![alt text](Dashboard.PNG)
 - Add Post Page
-- Blog Details Page
+![alt text](Posts.PNG)
+- Blog Details Page!
+[alt text](Category.PNG)
+- Users Details Page!
+![alt text](Users.PNG)
+- Comment Details Page!
+![alt text](Comments.PNG)
+
 
 ---
 
